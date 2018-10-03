@@ -26,7 +26,7 @@ int main()
 			s[p]++;
 		}
 		else
-		{
+		{hi
 			op.pb("OK");
 			s[k]=1;	
 		}	
